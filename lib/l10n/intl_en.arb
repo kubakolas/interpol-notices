@@ -1,0 +1,21 @@
+{
+  "noticesPageAppBarTitle": "Interpol Red Notices",
+  "ageInfoText": "{age} years old",
+  "identityParticulars": "Identity particulars",
+  "familyName": "Family name",
+  "forename": "Forename",
+  "dateOfBirth": "Date of birth",
+  "nationality": "Nationality",
+  "charges": "Charges",
+  "wantedByNationality": "Wanted by {nationality}",
+  "clipboardPageAppBarTitle": "Saved notices",
+  "unknownErrorDescription": "Unknown error occured",
+  "timeoutErrorDescription": "Maximum connection time exceeded. Check your connection and try again.",
+  "serverErrorDescription": "Server error occured, try again later.",
+  "networkErrorDescription": "No connectivity detected, check Your internet connection.",
+  "clientErrorDescription": "Invalid request.",
+  "ok": "Ok",
+  "featureNotReadyInfoText": "Sorry, this feature is not ready yet.",
+  "noticesBarItemTitle": "Notices",
+  "clipboardBarItemTitle": "Clipboard"
+}
